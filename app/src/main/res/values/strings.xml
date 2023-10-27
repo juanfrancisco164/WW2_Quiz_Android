@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WW2 Quiz</string>
+    <string name="question_WW2began">World War II began in 1939.</string>
+    <string name="question_Allies">The main Allies in World War II were the United States, the United Kingdom, and the Soviet Union.</string>
+    <string name="question_Normandy">The invasion of Normandy was known as Operation Desert Storm.</string>
+    <string name="question_SovietLeader">Adolf Hitler was the leader of the Soviet Union during World War II.</string>
+    <string name="question_Poland">Germany invaded Poland to start World War II in Europe.</string>
+    <string name="question_Stalingrad">The Battle of Stalingrad resulted in a decisive defeat for Germany and marked a turning point in World War II.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
